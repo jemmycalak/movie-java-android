@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MOVIE TERBARU</string>
+    <string name="udacity">MOVIE</string>
+    <string name="homefrontend">POP MOVIE</string>
+    <string name="detailMovie">DETAIL MOVIE</string>
+    <string name="judul">JUDUL</string>
+    <string name="reload">REFRESH</string>
+    <string name="populer">POPULARITY</string>
+    <string name="rateMovie">TOP RATED</string>
+    <string name="exitapp">EXIT</string>
+
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+</resources>

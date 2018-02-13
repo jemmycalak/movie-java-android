@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/menu_papular"
+        android:title="MOVIE POPUlAR"
+        android:textColor="@color/colorAccent">
+    </item>
+    <item android:id="@+id/menu_toprate"
+        android:title="MOVIE TOP RATE"
+        android:textColor="@color/colorAccent">
+    </item>
+
+</menu>

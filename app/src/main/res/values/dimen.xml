@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textSizeNormal">16dp</dimen>
+    <dimen name="textSizeLarge">20dp</dimen>
+    <dimen name="textSizeSmall">12dp</dimen>
+    <dimen name="paddingSizeNormal">16dp</dimen>
+    <dimen name="paddingSizeLarge">20dp</dimen>
+    <dimen name="paddingSizeSmall">12dp</dimen>
+    <dimen name="paddingSizeSmallest">6dp</dimen>
+    <dimen name="smallPadding">4dp</dimen>
+    <dimen name="smallestPadding">2dp</dimen>
+    <dimen name="imageSizeSmall">120dp</dimen>
+</resources>
