@@ -1,4 +1,0 @@
-api_key : Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NmMyMzg2ZDE1ZjU5MTFiMDRlNmM2NjUxZGY2MGMwZCIsInN1YiI6IjVhNjMyNGJiOTI1MTQxMGIyNTAwYWZjNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.4XlHQOPCbRdIYKra0on9SW_SSmFjE6kfteQkfIG0VtU
-
-http://api.themoviedb.org/3/movie/popular?api_key=96c2386d15f5911b04e6c6651df60c0d
-http://api.themoviedb.org/3/movie/top_rated?api_key=96c2386d15f5911b04e6c6651df60c0d
